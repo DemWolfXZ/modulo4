@@ -1,0 +1,6 @@
+Resumen del sistema GIC
+========================
+Cantidad total de clientes: 6
+Clientes Regular: 2
+Clientes Premium: 2
+Clientes Corporativo: 2

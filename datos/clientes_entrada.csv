@@ -1,0 +1,7 @@
+id,nombre,email,telefono,direccion,tipo,extra
+1,Ana Perez,ana_perez@mail.com,987654321,Calle 123,ClienteRegular,10.5
+2,Carlos Soto,carlos.soto@mail.com,912345678,Avenida 456,ClientePremium,200
+3,Empresa X,contacto@empresax.com,998877665,Parque Industrial 789,ClienteCorporativo,Empresa X SPA
+4,Maria Lopez,maria.lopez@mail.com,987123456,Pasaje 22,ClienteRegular,5
+5,Javier Rojas,javier.rojas@mail.com,955667788,Ruta 5 Sur km 10,ClientePremium,50
+6,Comercial ABC,ventas@comercialabc.cl,932211009,"Oficina 12, Centro",ClienteCorporativo,Comercial ABC Ltda

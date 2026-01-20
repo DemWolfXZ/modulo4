@@ -1,0 +1,22 @@
+Checklist de entregables (Sistema GIC)
+
+1) Codigo fuente (carpeta completa)
+   - main.py
+   - modulos/...
+   - comentarios explicativos
+
+2) Documentacion tecnica
+   - Documentacion_Tecnica_GIC.md (o PDF)
+
+3) Archivos de prueba
+   - datos/clientes_entrada.csv
+   - datos/clientes.csv (generado)
+   - reportes/resumen.txt (generado)
+   - logs/app.log (generado)
+
+4) Informe de validacion
+   - Informe_Validacion_GIC.md
+   - Capturas o salidas pegadas
+
+5) Presentacion final
+   - Presentacion_Final_GIC.md (base para PPT)

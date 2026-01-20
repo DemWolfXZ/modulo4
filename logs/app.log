@@ -1,0 +1,22 @@
+2026-01-18 16:23:25,137 - INFO - REPORTE TXT generado
+2026-01-18 16:23:42,276 - INFO - EXPORT CSV realizado
+2026-01-18 16:23:59,789 - ERROR - ARCHIVO: [Errno 2] No such file or directory: 'datos/clientes_entrada.csv'
+2026-01-18 16:24:05,324 - ERROR - ARCHIVO: [Errno 2] No such file or directory: 'datos/clientes_entrada.csv'
+2026-01-19 11:20:32,416 - ERROR - SISTEMA: ERROR! Cliente no encontrado por ID.
+2026-01-19 11:20:41,692 - ERROR - SISTEMA: ERROR! Cliente no encontrado por ID.
+2026-01-19 11:20:52,145 - INFO - REPORTE TXT generado
+2026-01-19 11:56:15,939 - INFO - ALTA cliente: as@as.cl
+2026-01-19 11:56:41,183 - INFO - REPORTE TXT generado
+2026-01-19 12:05:49,851 - ERROR - INESPERADO: 'GestorClientes' object has no attribute 'agregar_cliente'
+2026-01-19 12:07:40,580 - ERROR - INESPERADO: 'GestorClientes' object has no attribute 'eliminar_cliente'
+2026-01-19 12:11:52,029 - ERROR - SISTEMA: ERROR! Cliente no encontrado por ID.
+2026-01-19 12:13:28,933 - INFO - ALTA cliente: as@as.cl
+2026-01-19 12:13:41,516 - INFO - BAJA cliente: as@as.cl
+2026-01-19 12:48:26,294 - INFO - IMPORT CSV realizado - agregados=6
+2026-01-19 13:38:14,315 - INFO - EXPORT CSV realizado
+2026-01-19 13:38:26,247 - INFO - IMPORT CSV realizado - agregados=6
+2026-01-19 13:39:10,648 - INFO - REPORTE TXT generado
+2026-01-19 13:52:05,650 - INFO - IMPORT CSV realizado - agregados=6
+2026-01-19 13:52:41,062 - INFO - IMPORT CSV realizado - agregados=6
+2026-01-19 14:10:10,881 - INFO - ALTA cliente: ale.villa@duocuc.lc
+2026-01-19 14:11:30,206 - INFO - EXPORT CSV realizado
